@@ -1,0 +1,11 @@
+C:\Users\franc\source\repos\picturebox-cuadrados\bin\Debug\picturebox-cuadrados.exe.config
+C:\Users\franc\source\repos\picturebox-cuadrados\bin\Debug\picturebox-cuadrados.exe
+C:\Users\franc\source\repos\picturebox-cuadrados\bin\Debug\picturebox-cuadrados.pdb
+C:\Users\franc\source\repos\picturebox-cuadrados\obj\Debug\picturebox-cuadrados.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\picturebox-cuadrados\obj\Debug\picturebox-cuadrados.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\source\repos\picturebox-cuadrados\obj\Debug\picturebox_cuadrados.Form1.resources
+C:\Users\franc\source\repos\picturebox-cuadrados\obj\Debug\picturebox_cuadrados.Properties.Resources.resources
+C:\Users\franc\source\repos\picturebox-cuadrados\obj\Debug\picturebox-cuadrados.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\picturebox-cuadrados\obj\Debug\picturebox-cuadrados.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\picturebox-cuadrados\obj\Debug\picturebox-cuadrados.exe
+C:\Users\franc\source\repos\picturebox-cuadrados\obj\Debug\picturebox-cuadrados.pdb
